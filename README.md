@@ -8,6 +8,7 @@ It expects a Selenium Grid hub which can run on a remote host or on localhost. F
 
 ## Installation
 The installation and configuration of the plugin is very simple.
+
 1. Download, unzip and copy the script check_website_by_selenium.sh to your Nagios plugin location (see $USER2$)
 2. Adapt the paths to Java and SeInterpreter according to your needs, see section **Default options** in the script
 
