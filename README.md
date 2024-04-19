@@ -2,6 +2,10 @@
 A simple Nagios Plugin which starts a Selenium Script.
 It may help to monitor web applications which do not provide an API.
 
+## [exensio GmbH Blog](https://www.exensio.de/news-medien)
+
+This repositroy is created for the blogpost: [Nagios Monitoring von Webanwendungen mit Selenium](https://www.exensio.de/news-medien/newsreader-blog/nagios-monitoring-von-webanwendungen-mit-selenium)
+
 ## Requirements
 The plugin relies on [Selenium Grid](https://github.com/SeleniumHQ/selenium/wiki/Grid2) and [SeInterpreter](https://github.com/SeleniumBuilder/se-builder/wiki/Se-Interpreter).
 It expects a Selenium Grid hub which can run on a remote host or on localhost. Furthermore, it requires Java RE installed and the JAR file of SeInterpreter available on localhost.
